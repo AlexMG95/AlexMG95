@@ -80,19 +80,6 @@
 
 ---
 
-## 🌱 Trayectoria
-
-> De los platós de television a la primera pagina de Google.
-
-Mi camino empezo en el mundo del **audiovisual** (Tecnico de Sonido con practicas en Movistar y Cadena SER), pero la pasion por crear cosas visualmente impactantes me llevo hacia el **Diseno Grafico** y el **Desarrollo Web**. Hoy combino ese background creativo con tecnologia y datos para construir webs que realmente venden.
-
-**Formacion destacada:**
-- 🎨 Diseno UX/UI
-- 🎬 Master en VFX y Motion Graphics
-- 📈 Especializacion en SEO y Marketing Digital
-
----
-
 ## 📫 Contacto
 
 <div align="center">
