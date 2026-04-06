@@ -66,11 +66,11 @@
 
 | Habilidad | Nivel |
 |---|---|
-| WordPress & WooCommerce | `████████████████████` 95% |
-| SEO Tecnico & On-Page |   `██████████████████░░` 90% |
-| HTML5 / CSS3 |            `██████████████████░░` 88% |
-| Diseno UX/UI |            `████████████████░░░░` 82% |
-| JavaScript |              `██████████████░░░░░░` 70% |
+| WordPress & WooCommerce | `██████████████████░░` 90% |
+| SEO Tecnico & On-Page |   `█████████████████░░░` 85% |
+| HTML5 / CSS3 |            `████████████████░░░░` 80% |
+| Diseño UX/UI |            `██████████████░░░░░░` 75% |
+| JavaScript |              `███████░░░░░░░░░░░░░` 25% |
 | PHP |                     `██████░░░░░░░░░░░░░░` 20% |
 
 </div>
@@ -113,14 +113,6 @@
 <!-- BLOG-POST-LIST:START -->- [Personalización UX con IA en WordPress: El Futuro Digital](https://alejandromunozgoni.com/blog/personalizacion-ux-ia-wordpress/)- [Del Pixel al ROI: Diseño y Marketing Digital con Datos e IA](https://alejandromunozgoni.com/blog/del-pixel-al-roi-diseno-marketing-ia/)- [IA en Diseño: Potencia tu Creatividad y Flujo de Trabajo](https://alejandromunozgoni.com/blog/diseno-asistido-ia-flujo-trabajo/)- [Guía de Programas de Inteligencia Artificial para Marketing Digital](https://alejandromunozgoni.com/blog/programas-inteligencia-artificial-marketing-digital/)- [Herramientas de Inteligencia Artificial para generar contenido](https://alejandromunozgoni.com/blog/herramientas-de-inteligencia-artificial-para-generar-contenido-visual/)<!-- BLOG-POST-LIST:END -->
 
 Mas articulos en [alejandromunozgoni.com](https://alejandromunozgoni.com)
-
----
-
-## Trayectoria
-
-> De los platos de television a la primera pagina de Google.
-
-Mi camino empezo en el mundo del **audiovisual** (Tecnico de Sonido con practicas en Movistar y Cadena SER), pero la pasion por crear cosas visualmente impactantes me llevo hacia el **Diseno Grafico** y el **Desarrollo Web**. Hoy combino ese background creativo con tecnologia y datos para construir webs que realmente venden.
 
 ---
 
