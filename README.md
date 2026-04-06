@@ -8,14 +8,13 @@
 
 <br/>
 
-<!-- BADGES DE VISITAS Y SEGUIDORES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexMG95&color=21759B&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
 ---
 
-## 🚀 ¿Qué hago?
+## Que hago?
 
 <table>
   <tr>
@@ -44,7 +43,7 @@
 
 ---
 
-## 🛠️ Stack & Herramientas
+## Stack & Herramientas
 
 <div align="center">
 
@@ -63,7 +62,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## Nivel de habilidades
+
+<div align="center">
+
+| Habilidad | Nivel |
+|---|---|
+| WordPress & WooCommerce | `████████████████████` 95% |
+| SEO Tecnico & On-Page | `██████████████████░░` 90% |
+| HTML5 / CSS3 | `██████████████████░░` 88% |
+| Diseno UX/UI | `████████████████░░░░` 82% |
+| JavaScript | `██████████████░░░░░░` 70% |
+| PHP | `████████████░░░░░░░░` 65% |
+
+</div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -80,13 +96,44 @@
 
 ---
 
-## 📫 Contacto
+## Contribuciones (Snake)
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_alejandromunozgoni.com-21759B?style=for-the-badge)](https://alejandromunozgoni.com)
-[![Email](https://img.shields.io/badge/Email-alex2101995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex2101995@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Madrid,_España-grey?style=for-the-badge)](https://alejandromunozgoni.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexMG95/AlexMG95/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexMG95/AlexMG95/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexMG95/AlexMG95/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## Ultimos articulos del blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Mas articulos en [alejandromunozgoni.com](https://alejandromunozgoni.com)
+
+---
+
+## Trayectoria
+
+> De los platos de television a la primera pagina de Google.
+
+Mi camino empezo en el mundo del **audiovisual** (Tecnico de Sonido con practicas en Movistar y Cadena SER), pero la pasion por crear cosas visualmente impactantes me llevo hacia el **Diseno Grafico** y el **Desarrollo Web**. Hoy combino ese background creativo con tecnologia y datos para construir webs que realmente venden.
+
+---
+
+## Contacto
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/-alejandromunozgoni.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://alejandromunozgoni.com)
+[![Email](https://img.shields.io/badge/-alex2101995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex2101995@gmail.com)
+[![Location](https://img.shields.io/badge/-Madrid,_Espana-grey?style=for-the-badge&logo=googlemaps&logoColor=white)](https://alejandromunozgoni.com)
 
 </div>
 
