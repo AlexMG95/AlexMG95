@@ -54,9 +54,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WPBakery](https://img.shields.io/badge/WP%20Bakery-92003B?style=for-the-badge&logo=wpbakery&logoColor=white)
 
 </div>
 
@@ -69,11 +67,11 @@
 | Habilidad | Nivel |
 |---|---|
 | WordPress & WooCommerce | `████████████████████` 95% |
-| SEO Tecnico & On-Page | `██████████████████░░` 90% |
-| HTML5 / CSS3 | `██████████████████░░` 88% |
-| Diseno UX/UI | `████████████████░░░░` 82% |
-| JavaScript | `██████████████░░░░░░` 70% |
-| PHP | `████████████░░░░░░░░` 65% |
+| SEO Tecnico & On-Page |   `██████████████████░░` 90% |
+| HTML5 / CSS3 |            `██████████████████░░` 88% |
+| Diseno UX/UI |            `████████████████░░░░` 82% |
+| JavaScript |              `██████████████░░░░░░` 70% |
+| PHP |                     `██████░░░░░░░░░░░░░░` 20% |
 
 </div>
 
