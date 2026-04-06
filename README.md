@@ -112,8 +112,7 @@
 
 ## Ultimos articulos del blog
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Personalización UX con IA en WordPress: El Futuro Digital](https://alejandromunozgoni.com/blog/personalizacion-ux-ia-wordpress/)- [Del Pixel al ROI: Diseño y Marketing Digital con Datos e IA](https://alejandromunozgoni.com/blog/del-pixel-al-roi-diseno-marketing-ia/)- [IA en Diseño: Potencia tu Creatividad y Flujo de Trabajo](https://alejandromunozgoni.com/blog/diseno-asistido-ia-flujo-trabajo/)- [Guía de Programas de Inteligencia Artificial para Marketing Digital](https://alejandromunozgoni.com/blog/programas-inteligencia-artificial-marketing-digital/)- [Herramientas de Inteligencia Artificial para generar contenido](https://alejandromunozgoni.com/blog/herramientas-de-inteligencia-artificial-para-generar-contenido-visual/)<!-- BLOG-POST-LIST:END -->
 
 Mas articulos en [alejandromunozgoni.com](https://alejandromunozgoni.com)
 
