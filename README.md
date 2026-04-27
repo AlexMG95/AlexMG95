@@ -109,7 +109,7 @@
 
 ## Ultimos articulos del blog
 
-<!-- BLOG-POST-LIST:START -->- [WP Rocket: Review Completa y Configuración Paso a Paso](https://alejandromunozgoni.com/blog/wp-rocket-review-completa-configuracion/)- [Personalización UX con IA en WordPress: El Futuro Digital](https://alejandromunozgoni.com/blog/personalizacion-ux-ia-wordpress/)- [Del Pixel al ROI: Diseño y Marketing Digital con Datos e IA](https://alejandromunozgoni.com/blog/del-pixel-al-roi-diseno-marketing-ia/)- [IA en Diseño: Potencia tu Creatividad y Flujo de Trabajo](https://alejandromunozgoni.com/blog/diseno-asistido-ia-flujo-trabajo/)- [Guía de Programas de Inteligencia Artificial para Marketing Digital](https://alejandromunozgoni.com/blog/programas-inteligencia-artificial-marketing-digital/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [IA en WordPress: Accesibilidad Web y Diseño Inclusivo](https://alejandromunozgoni.com/blog/ia-accesibilidad-web-diseno-inclusivo-wordpress/)- [WP Rocket: Review Completa y Configuración Paso a Paso](https://alejandromunozgoni.com/blog/wp-rocket-review-completa-configuracion/)- [Personalización UX con IA en WordPress: El Futuro Digital](https://alejandromunozgoni.com/blog/personalizacion-ux-ia-wordpress/)- [Del Pixel al ROI: Diseño y Marketing Digital con Datos e IA](https://alejandromunozgoni.com/blog/del-pixel-al-roi-diseno-marketing-ia/)- [IA en Diseño: Potencia tu Creatividad y Flujo de Trabajo](https://alejandromunozgoni.com/blog/diseno-asistido-ia-flujo-trabajo/)<!-- BLOG-POST-LIST:END -->
 
 Mas articulos en [alejandromunozgoni.com](https://alejandromunozgoni.com)
 
