@@ -109,7 +109,7 @@
 
 ## Ultimos articulos del blog
 
-<!-- BLOG-POST-LIST:START -->- [SEO del Futuro: Rankea tu Contenido con IA y Datos](https://alejandromunozgoni.com/blog/seo-futuro-ia-datos-rankea-contenido/)- [n8n, WordPress, Claude y Gemini: Automatización con IA](https://alejandromunozgoni.com/blog/n8n-wordpress-automatizacion-ia-claude-gemini/)- [Cómo Mejorar la Velocidad de WordPress en 2026](https://alejandromunozgoni.com/blog/velocidad-wordpress-2026/)- [IA en WordPress: Accesibilidad Web y Diseño Inclusivo](https://alejandromunozgoni.com/blog/ia-accesibilidad-web-diseno-inclusivo-wordpress/)- [WP Rocket: Review Completa y Configuración Paso a Paso](https://alejandromunozgoni.com/blog/wp-rocket-review-completa-configuracion/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [SEO Local: Guía Definitiva para Conectar con Clientes Cercanos](https://alejandromunozgoni.com/blog/seo-local-guia-definitiva/)- [SEO del Futuro: Rankea tu Contenido con IA y Datos](https://alejandromunozgoni.com/blog/seo-futuro-ia-datos-rankea-contenido/)- [n8n, WordPress, Claude y Gemini: Automatización con IA](https://alejandromunozgoni.com/blog/n8n-wordpress-automatizacion-ia-claude-gemini/)- [Cómo Mejorar la Velocidad de WordPress en 2026](https://alejandromunozgoni.com/blog/velocidad-wordpress-2026/)- [IA en WordPress: Accesibilidad Web y Diseño Inclusivo](https://alejandromunozgoni.com/blog/ia-accesibilidad-web-diseno-inclusivo-wordpress/)<!-- BLOG-POST-LIST:END -->
 
 Mas articulos en [alejandromunozgoni.com](https://alejandromunozgoni.com)
 
